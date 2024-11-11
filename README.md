@@ -1,6 +1,7 @@
 # Análise Exploratória dos Níveis de Obesidade
-
-![Imagem do projeto](docs/assets/img/titulo_logo.png)
+<p align="center">
+  <img src="docs/assets/img/titulo_logo.png" alt="Imagem do Projeto">
+</p>
 
 Este projeto tem como objetivo analisar os níveis de obesidade com base em fatores como hábitos alimentares, níveis de atividade física e outras características demográficas e comportamentais. Além da análise exploratória dos dados, será realizada uma modelagem preditiva para classificar os níveis de obesidade dos indivíduos a partir desses atributos. O objetivo é entender como diferentes variáveis, como alimentação, atividade física e fatores pessoais, impactam os níveis de obesidade e criar um modelo que possa prever o risco de obesidade em novas amostras com base nesses dados. Através dessa análise, buscamos gerar insights que podem ajudar em ações preventivas e estratégias de saúde pública.
 
