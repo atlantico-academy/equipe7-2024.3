@@ -32,9 +32,9 @@ O projeto será desenvolvido utilizando a metodologia CRISP-DM, seguindo os segu
 
 O projeto também é dividido em duas entregas, a saber:
 
-1. **Análise Exploratória de Dados (EDA)**: entendimento das variáveis que influenciam o MPG e identificação de padrões nos dados através de hipóteses, visualizações e insights.
-2. **Análise comparativa de modelos**: construção de modelos de aprendizado de máquina para rpevisão de consumo, com métricas de desempenho para avaliação da performance.
+1. *Análise Exploratória de Dados (EDA)*: entendimento das variáveis que influenciam o MPG e identificação de padrões nos dados através de hipóteses, visualizações e insights.
+2. *Análise comparativa de modelos*: construção de modelos de aprendizado de máquina para rpevisão de consumo, com métricas de desempenho para avaliação da performance.
 
 ## Resultados Esperados
 
-Esperamos identificar as principais variáveis que influenciam os níveis de obesidade e desenvolver um modelo preditivo capaz de estimar os níveis de obesidade com base em hábitos alimentares e atividades físicas. Com isso, buscamos fornecer insights valiosos para profissionais de saúde e políticas públicas, permitindo a identificação precoce de indivíduos em risco e a criação de intervenções mais eficazes. Além disso, esperamos contribuir para uma melhor compreensão dos fatores que contribuem para a obesidade e como eles podem ser monitorados e gerenciados de maneira mais eficiente.
+Esperamos identificar as principais variáveis que influenciam os níveis de obesidade e desenvolver um modelo preditivo capaz de estimar os níveis de obesidade com base em hábitos alimentares e atividades físicas. Com isso, buscamos fornecer insights valiosos para profissionais de saúde e políticas públicas, permitindo a identificação precoce de indivíduos em risco e a criação de intervenções mais eficazes. Além disso, esperamos contribuir para uma melhor compreensão dos fatores que contribuem para a obesidade e como eles podem ser monitorados e gerenciados de maneira mais eficiente.
