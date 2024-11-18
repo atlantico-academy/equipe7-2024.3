@@ -1,11 +1,15 @@
 # Análise Exploratória dos Níveis de Obesidade
 <p align="center">
-  <img src="docs/assets/img/titulo_logo.png" alt="Imagem do Projeto">
-</p>
+      <img src="https://t3.ftcdn.net/jpg/05/42/14/54/360_F_542145427_5HCawGyGRONSJr48VF8TO6mBf0NjWprx.jpg"/>
+    </p>
 
 Este projeto tem como objetivo analisar os níveis de obesidade com base em fatores como hábitos alimentares, níveis de atividade física e outras características demográficas e comportamentais. Além da análise exploratória dos dados, será realizada uma modelagem preditiva para classificar os níveis de obesidade dos indivíduos a partir desses atributos. O objetivo é entender como diferentes variáveis, como alimentação, atividade física e fatores pessoais, impactam os níveis de obesidade e criar um modelo que possa prever o risco de obesidade em novas amostras com base nesses dados. Através dessa análise, buscamos gerar insights que podem ajudar em ações preventivas e estratégias de saúde pública.
 
-#Insira aqui um resumo do projeto que será construído. Tente apresentar uma justificativa para o projeto. É desejável que também se insira um [graphical abstract](https://www.elsevier.com/authors/tools-and-resources/visual-abstract).
+## Desenvolvedores
+ - [Laís Dantas](https://github.com/kalliphlox)
+ - [Conceição Freitas](https://github.com/Mariafl12)
+ - [João Alves](url-do-github-do-desenvolvedor-#3)
+ - [João Paulo Ferreira](https://github.com/joao-paulo-alt)
 
 ## Justificativa
 
@@ -34,9 +38,3 @@ O projeto também é dividido em duas entregas, a saber:
 ## Resultados Esperados
 
 Esperamos identificar as principais variáveis que influenciam os níveis de obesidade e desenvolver um modelo preditivo capaz de estimar os níveis de obesidade com base em hábitos alimentares e atividades físicas. Com isso, buscamos fornecer insights valiosos para profissionais de saúde e políticas públicas, permitindo a identificação precoce de indivíduos em risco e a criação de intervenções mais eficazes. Além disso, esperamos contribuir para uma melhor compreensão dos fatores que contribuem para a obesidade e como eles podem ser monitorados e gerenciados de maneira mais eficiente.
-
-## Desenvolvedores
- - [Laís Dantas](https://github.com/kalliphlox)
- - [Conceição Freitas](https://github.com/Mariafl12)
- - [João Alves](url-do-github-do-desenvolvedor-#3)
- - [João](url-do-github-do-desenvolvedor-#4)
